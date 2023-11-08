@@ -1,0 +1,26 @@
+C:\Users\USER\Desktop\SJCE MCA\Employee Stress\finalyearProject\finalyearProject\bin\finalyearProject.dll
+C:\Users\USER\Desktop\SJCE MCA\Employee Stress\finalyearProject\finalyearProject\bin\finalyearProject.pdb
+C:\Users\USER\Desktop\SJCE MCA\Employee Stress\finalyearProject\finalyearProject\obj\Debug\finalyearProject.dll
+C:\Users\USER\Desktop\SJCE MCA\Employee Stress\finalyearProject\finalyearProject\obj\Debug\finalyearProject.pdb
+D:\Academic 2020-2021\Projects\SJCE\Employee Stress\Rakhitha Final Copy KNN DT\finalyearProject\finalyearProject\bin\finalyearProject.dll
+D:\Academic 2020-2021\Projects\SJCE\Employee Stress\Rakhitha Final Copy KNN DT\finalyearProject\finalyearProject\bin\finalyearProject.pdb
+D:\Academic 2020-2021\Projects\SJCE\Employee Stress\Rakhitha Final Copy KNN DT\finalyearProject\finalyearProject\obj\Debug\finalyearProject.dll
+D:\Academic 2020-2021\Projects\SJCE\Employee Stress\Rakhitha Final Copy KNN DT\finalyearProject\finalyearProject\obj\Debug\finalyearProject.pdb
+D:\Academic 2020-2021\Projects\SJCE MCA\Rakshitha Final Copy KNN DT\finalyearProject\finalyearProject\bin\finalyearProject.dll
+D:\Academic 2020-2021\Projects\SJCE MCA\Rakshitha Final Copy KNN DT\finalyearProject\finalyearProject\bin\finalyearProject.pdb
+D:\Academic 2020-2021\Projects\SJCE MCA\Rakshitha Final Copy KNN DT\finalyearProject\finalyearProject\obj\Debug\finalyearProject.csprojResolveAssemblyReference.cache
+D:\Academic 2020-2021\Projects\SJCE MCA\Rakshitha Final Copy KNN DT\finalyearProject\finalyearProject\obj\Debug\finalyearProject.dll
+D:\Academic 2020-2021\Projects\SJCE MCA\Rakshitha Final Copy KNN DT\finalyearProject\finalyearProject\obj\Debug\finalyearProject.pdb
+D:\Academic 2020-2021\Projects\NIE\Employee Stress\Zeeshan Final Copy\finalyearProject\finalyearProject\bin\finalyearProject.dll
+D:\Academic 2020-2021\Projects\NIE\Employee Stress\Zeeshan Final Copy\finalyearProject\finalyearProject\bin\finalyearProject.pdb
+D:\Academic 2020-2021\Projects\NIE\Employee Stress\Zeeshan Final Copy\finalyearProject\finalyearProject\obj\Debug\finalyearProject.dll
+D:\Academic 2020-2021\Projects\NIE\Employee Stress\Zeeshan Final Copy\finalyearProject\finalyearProject\obj\Debug\finalyearProject.pdb
+D:\Academic 2020-2021\Projects\NIE\Employee Stress\Zeeshan Final Copy\finalyearProject\finalyearProject\obj\Debug\finalyearProject.csprojResolveAssemblyReference.cache
+D:\Academic 2020-2021\Projects\NIE\Employee Stress\Zeeshan Final Copy New\finalyearProject\finalyearProject\bin\finalyearProject.dll
+D:\Academic 2020-2021\Projects\NIE\Employee Stress\Zeeshan Final Copy New\finalyearProject\finalyearProject\bin\finalyearProject.pdb
+D:\Academic 2020-2021\Projects\NIE\Employee Stress\Zeeshan Final Copy New\finalyearProject\finalyearProject\obj\Debug\finalyearProject.dll
+D:\Academic 2020-2021\Projects\NIE\Employee Stress\Zeeshan Final Copy New\finalyearProject\finalyearProject\obj\Debug\finalyearProject.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Employee Stress\E Stress Final Copy\finalyearProject\finalyearProject\bin\finalyearProject.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Employee Stress\E Stress Final Copy\finalyearProject\finalyearProject\bin\finalyearProject.pdb
+D:\Academic 2021-2022\PROJECTS\VVCE\Employee Stress\E Stress Final Copy\finalyearProject\finalyearProject\obj\Debug\finalyearProject.dll
+D:\Academic 2021-2022\PROJECTS\VVCE\Employee Stress\E Stress Final Copy\finalyearProject\finalyearProject\obj\Debug\finalyearProject.pdb
